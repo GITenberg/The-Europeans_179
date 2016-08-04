@@ -1,0 +1,35 @@
+_repo: The-Europeans_179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: Eugenia, an expatriated American, is the morganatic wife of a German
+  prince, who is about to reject her in favor of a state marriage. With her artist
+  brother Felix Young she travels to Boston to visit relatives she has never before
+  seen, in hopes of making a wealthy marriage. The men of Boston soon realize her
+  deceitfulness, and she returns to Europe, feeling that her fortune-hunting scheme
+  is impractical in unsusceptible America. - Publisher.
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Upper class -- Fiction'
+- !lcsh 'Europeans -- United States -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: The Europeans
+url: http://www.gutenberg.org/ebooks/179
