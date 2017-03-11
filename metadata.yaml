@@ -1,5 +1,8 @@
 _repo: The-Europeans_179
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -14,6 +17,8 @@ description: Eugenia, an expatriated American, is the morganatic wife of a Germa
   seen, in hopes of making a wealthy marriage. The men of Boston soon realize her
   deceitfulness, and she returns to Europe, feeling that her fortune-hunting scheme
   is impractical in unsusceptible America. - Publisher.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/179#The-Europeans
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
 identifiers:
